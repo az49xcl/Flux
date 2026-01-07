@@ -5,7 +5,7 @@
 
 const CONFIG = {
     // 访问密钥 (用于路径前缀鉴权)
-    SECRET: 'password123',
+    SECRET: 'koodev5912345678',
 
     // 上游请求头过滤 (隐私保护)
     DROP_REQ_HEADERS: [
@@ -258,4 +258,5 @@ function renderLogin() {
         <button>Unlock</button>
     </form>
 </div></body></html>`;
+
 }
